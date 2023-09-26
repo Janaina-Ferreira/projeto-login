@@ -38,7 +38,7 @@ section#login{
 
 section#login > div#imagem{
     display: block;
-    background: #5f2c82 url(../imagens/fundo-de-cor-brilhante-abstrato-generative-ai_155807-1944.avif) no-repeat;
+    background: #5f2c82 url(../imagens/respingo-colorido-abstrato-3d-background-generativo-ai-background_60438-2509.avif) no-repeat;
     background-size: cover;
     height: 200px;
     
@@ -47,4 +47,13 @@ section#login > div#imagem{
 section#login > div#formulario{
     display: block;
     padding: 10px;
+}
+
+div#formulario > h1{
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+div#formulario > p{
+    font-size: .8em;
 }
